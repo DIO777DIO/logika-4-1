@@ -82,8 +82,6 @@ div {
 }
 div img {
   background-color: orangered;  
-  height: 350px;
-  width: 350px;
   justify-content: flex-start;
 }
 div p{
